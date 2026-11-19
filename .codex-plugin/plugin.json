@@ -1,0 +1,13 @@
+{
+  "name": "xiaohongshu-mcp",
+  "version": "0.1.0",
+  "description": "Search and read Xiaohongshu notes with a local browser session.",
+  "mcpServers": "./.mcp.json",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "xiaohongshu-mcp",
+    "shortDescription": "搜索并读取小红书笔记",
+    "category": "Productivity",
+    "defaultPrompt": ["在小红书搜 5 篇悉尼租房经验，提供原帖链接。"]
+  }
+}

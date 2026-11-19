@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "xiaohongshu-mcp": {
+      "command": "node",
+      "args": ["src/plugin.mjs"],
+      "cwd": ".",
+      "tool_timeout_sec": 75
+    }
+  }
+}
